@@ -19,5 +19,5 @@ int main() {
     printf("Keliling = %d cm\n", (int)keliling);
     printf("Luas = %d cm^2\n", (int)luas);
 
-
+    return 0;
 }
